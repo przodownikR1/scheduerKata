@@ -1,4 +1,4 @@
-scheduerKata
+schedulerKata
 ============
 
 quartz + spring integration kata
